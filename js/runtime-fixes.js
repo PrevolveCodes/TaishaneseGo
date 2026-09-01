@@ -21,3 +21,4 @@ window.resetProgress=function(){if(typeof baseReset==='function')baseReset()};
 // Keep the developer review route out of the learner navigation even if the hash is entered directly.
 const baseShell=shell;
 shell=function(title,html){baseShell(title,html);document.querySelectorAll('.side nav a').forEach(a=>{if(a.getAttribute('href')==='#content-review')a.remove()})};
+router();
