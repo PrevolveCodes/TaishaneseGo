@@ -1,0 +1,2 @@
+// Pronunciation data belongs here. Keep ONE explicitly documented romanization system.
+const PRONUNCIATION={system:'Not yet selected — choose and document one verified Taishanese romanization system before publishing pronunciation lessons.',initials:[],finals:[],tones:[],notes:['Do not mix romanization systems in one lesson.','Do not substitute Mandarin or Cantonese audio for Taishanese.']};
