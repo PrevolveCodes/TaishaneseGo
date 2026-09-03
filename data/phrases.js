@@ -1,8 +1,2 @@
-const PHRASES=[
-{id:'p-hello',category:'Greetings',english:'Hello',taishanese:'你好',romanization:'nei1 hao2',exampleSentence:'你好。',exampleRomanization:'nei1 hao2',verificationStatus:'verified',source:'https://www.learntoisan.com/dictionary',audio:null},
-{id:'p-name',category:'Introductions',english:'I am John',taishanese:'我孩 John',romanization:'ngoi1 hai3 John',exampleSentence:'我孩 John。',exampleRomanization:'ngoi1 hai3 John',verificationStatus:'verified',source:'https://www.learntoisan.com/sentences',audio:null},
-{id:'p-how',category:'Greetings',english:'How are you?',taishanese:'你好吗?',romanization:null,exampleSentence:'我好, 你呢?',exampleRomanization:null,verificationStatus:'verified',source:'https://taishandict.com/TaishaneseLesson/V01_L06/TL_V01_L06_pane.html',audio:null,notes:'The source provides the Taishanese text and English but not a romanization on this page.'},
-{id:'p-well',category:'Greetings',english:"I'm well. How about you?",taishanese:'我好, 你呢?',romanization:null,exampleSentence:'我好好.',exampleRomanization:null,verificationStatus:'verified',source:'https://taishandict.com/TaishaneseLesson/V01_L06/TL_V01_L06_pane.html',audio:null},
-{id:'p-thanks',category:'Everyday Phrases',english:'Thank you',taishanese:'唔该, 唔该.',romanization:null,exampleSentence:'唔使唔该.',exampleRomanization:null,verificationStatus:'verified',source:'https://taishandict.com/TaishaneseLesson/V01_L06/TL_V01_L06_pane.html',audio:null},
-{id:'p-water',category:'Food & Drinks',english:'Excuse me, I would like some water',taishanese:'唔該, 我想要啲水',romanization:'m4-goi, ngoi1 lhieng2 huo2 sui2',exampleSentence:null,exampleRomanization:null,verificationStatus:'verified',source:'https://www.learntoisan.com/sentences',audio:null}
-];
+// LANGUAGE QUARANTINE: do not publish phrases until specifically reviewed as Taishanese.
+const PHRASES=[];
