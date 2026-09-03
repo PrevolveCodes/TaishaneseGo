@@ -1,2 +1,9 @@
-// Pronunciation metadata. Do not add phonetic or tone claims without a cited source.
-const PRONUNCIATION={system:'Learn Toisan pinyin transcription used by the sourced dictionary entries',source:'https://www.learntoisan.com/dictionary',status:'source-verified / speaker-reviewable',notes:['Keep one documented transcription system within a lesson.','Tone numbers belong to the source transcription and should not be silently converted to another system.','Do not substitute Mandarin or Cantonese audio for Taishanese.','Audio is intentionally absent until authentic Taishanese recordings are available.']};
+// Pronunciation is intentionally unpublished until individual Taishanese entries
+// are specifically sourced and reviewed. Do not infer tones or sounds from another
+// Chinese variety.
+const PRONUNCIATION={
+  system:'No site-wide pronunciation system is currently published',
+  source:'',
+  status:'awaiting Taishanese review',
+  notes:['Do not guess.','Do not substitute Mandarin or Cantonese pronunciation.','Audio remains unavailable until authentic Taishanese recordings are reviewed.']
+};
