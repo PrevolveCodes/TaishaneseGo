@@ -1,4 +1,2 @@
-const CONVERSATIONS=[
-{id:'c1',title:'A simple introduction',verificationStatus:'verified',source:'https://www.learntoisan.com/sentences',turns:[{speaker:'A',taishanese:'我孩 John',romanization:'ngoi1 hai3 John',english:'I am John'},{speaker:'B',taishanese:'你好',romanization:'nei1 hao2',english:'Hello'}]},
-{id:'c2',title:'Checking whether someone has eaten',verificationStatus:'verified',source:'https://www.learntoisan.com/sentences',turns:[{speaker:'A',taishanese:'你吃誒飯未啊?',romanization:'nei1 hieg1 e1 fan3 mei3 a1?',english:'Have you eaten, yet?'},{speaker:'B',taishanese:'我吃誒尼',romanization:'ngoi1 hieg1 e1 nai2',english:'I ate some'}]}
-];
+// LANGUAGE QUARANTINE: conversations require specific Taishanese verification.
+const CONVERSATIONS=[];
